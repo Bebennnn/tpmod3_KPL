@@ -1,0 +1,10 @@
+C:\Coding\Visual Studio\tpmod3_103022330122\tpmod3_103022330122\bin\Debug\tpmod3_103022330122.exe.config
+C:\Coding\Visual Studio\tpmod3_103022330122\tpmod3_103022330122\bin\Debug\tpmod3_103022330122.exe
+C:\Coding\Visual Studio\tpmod3_103022330122\tpmod3_103022330122\bin\Debug\tpmod3_103022330122.pdb
+C:\Coding\Visual Studio\tpmod3_103022330122\tpmod3_103022330122\obj\Debug\tpmod3_103022330122.csproj.AssemblyReference.cache
+C:\Coding\Visual Studio\tpmod3_103022330122\tpmod3_103022330122\obj\Debug\tpmod3_103022330122.Form1.resources
+C:\Coding\Visual Studio\tpmod3_103022330122\tpmod3_103022330122\obj\Debug\tpmod3_103022330122.Properties.Resources.resources
+C:\Coding\Visual Studio\tpmod3_103022330122\tpmod3_103022330122\obj\Debug\tpmod3_103022330122.csproj.GenerateResource.cache
+C:\Coding\Visual Studio\tpmod3_103022330122\tpmod3_103022330122\obj\Debug\tpmod3_103022330122.csproj.CoreCompileInputs.cache
+C:\Coding\Visual Studio\tpmod3_103022330122\tpmod3_103022330122\obj\Debug\tpmod3_103022330122.exe
+C:\Coding\Visual Studio\tpmod3_103022330122\tpmod3_103022330122\obj\Debug\tpmod3_103022330122.pdb
